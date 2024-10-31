@@ -1,0 +1,6 @@
+{
+    "technology": "Visium-HD",
+    "max_pyramid_zoom": 13,
+    "tile_size": 100,
+    "image_format": ".jpeg"
+}
